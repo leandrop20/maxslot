@@ -1,0 +1,2 @@
+# maxslot
+maxslot game project
