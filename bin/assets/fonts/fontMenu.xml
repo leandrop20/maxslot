@@ -1,0 +1,54 @@
+<font>
+	<info face="D:\WORKS\AS3\maxslot\bin\assets\fonts\fontMenu" size="33" />
+	<common lineHeight="33" scaleW="182" scaleH="186" pages="1" />
+	<pages>
+		<page id="0" file="D:\WORKS\AS3\maxslot\bin\assets\fonts\fontMenu.png" />
+	</pages>
+	<chars count="43">
+		<char id="65" x="0" y="157" width="26" height="26" xoffset="0" yoffset="6" xadvance="23" /><!-- A -->
+		<char id="193" x="55" y="86" width="26" height="32" xoffset="0" yoffset="0" xadvance="23" /><!-- Á -->
+		<char id="192" x="28" y="153" width="26" height="32" xoffset="0" yoffset="0" xadvance="23" /><!-- À -->
+		<char id="194" x="28" y="119" width="26" height="33" xoffset="0" yoffset="-1" xadvance="23" /><!-- Â -->
+		<char id="195" x="28" y="86" width="26" height="32" xoffset="0" yoffset="0" xadvance="23" /><!-- Ã -->
+		<char id="66" x="106" y="27" width="23" height="27" xoffset="0" yoffset="6" xadvance="20" /><!-- B -->
+		<char id="67" x="106" y="55" width="23" height="27" xoffset="0" yoffset="6" xadvance="20" /><!-- C -->
+		<char id="199" x="106" y="83" width="23" height="32" xoffset="0" yoffset="6" xadvance="20" /><!-- Ç -->
+		<char id="68" x="81" y="153" width="24" height="26" xoffset="0" yoffset="6" xadvance="21" /><!-- D -->
+		<char id="69" x="128" y="150" width="21" height="27" xoffset="0" yoffset="6" xadvance="18" /><!-- E -->
+		<char id="201" x="130" y="0" width="21" height="33" xoffset="0" yoffset="0" xadvance="18" /><!-- É -->
+		<char id="200" x="150" y="124" width="20" height="33" xoffset="0" yoffset="0" xadvance="17" /><!-- È -->
+		<char id="202" x="130" y="90" width="20" height="33" xoffset="0" yoffset="0" xadvance="17" /><!-- Ê -->
+		<char id="70" x="130" y="34" width="20" height="27" xoffset="0" yoffset="6" xadvance="17" /><!-- F -->
+		<char id="71" x="55" y="153" width="25" height="27" xoffset="0" yoffset="6" xadvance="22" /><!-- G -->
+		<char id="72" x="56" y="27" width="25" height="26" xoffset="0" yoffset="6" xadvance="22" /><!-- H -->
+		<char id="73" x="108" y="0" width="12" height="26" xoffset="0" yoffset="6" xadvance="9" /><!-- I -->
+		<char id="205" x="167" y="0" width="14" height="32" xoffset="0" yoffset="0" xadvance="11" /><!-- Í -->
+		<char id="204" x="151" y="62" width="15" height="32" xoffset="0" yoffset="0" xadvance="12" /><!-- Ì -->
+		<char id="74" x="152" y="0" width="14" height="30" xoffset="0" yoffset="6" xadvance="11" /><!-- J -->
+		<char id="75" x="81" y="54" width="24" height="27" xoffset="0" yoffset="6" xadvance="21" /><!-- K -->
+		<char id="76" x="130" y="62" width="20" height="27" xoffset="0" yoffset="6" xadvance="17" /><!-- L -->
+		<char id="77" x="0" y="27" width="28" height="27" xoffset="0" yoffset="6" xadvance="25" /><!-- M -->
+		<char id="78" x="33" y="0" width="25" height="26" xoffset="0" yoffset="6" xadvance="22" /><!-- N -->
+		<char id="79" x="29" y="27" width="26" height="27" xoffset="0" yoffset="6" xadvance="23" /><!-- O -->
+		<char id="211" x="0" y="55" width="27" height="33" xoffset="0" yoffset="0" xadvance="24" /><!-- Ó -->
+		<char id="210" x="55" y="119" width="26" height="33" xoffset="0" yoffset="0" xadvance="23" /><!-- Ò -->
+		<char id="212" x="0" y="89" width="27" height="34" xoffset="0" yoffset="-1" xadvance="24" /><!-- Ô -->
+		<char id="213" x="0" y="124" width="27" height="32" xoffset="0" yoffset="1" xadvance="24" /><!-- Õ -->
+		<char id="80" x="84" y="0" width="23" height="26" xoffset="0" yoffset="6" xadvance="20" /><!-- P -->
+		<char id="81" x="28" y="55" width="27" height="30" xoffset="0" yoffset="6" xadvance="24" /><!-- Q -->
+		<char id="82" x="82" y="82" width="23" height="26" xoffset="0" yoffset="6" xadvance="20" /><!-- R -->
+		<char id="83" x="151" y="34" width="16" height="27" xoffset="0" yoffset="6" xadvance="13" /><!-- S -->
+		<char id="84" x="106" y="150" width="21" height="26" xoffset="0" yoffset="6" xadvance="18" /><!-- T -->
+		<char id="85" x="56" y="54" width="24" height="27" xoffset="0" yoffset="6" xadvance="21" /><!-- U -->
+		<char id="218" x="106" y="116" width="23" height="33" xoffset="0" yoffset="0" xadvance="20" /><!-- Ú -->
+		<char id="86" x="82" y="27" width="23" height="26" xoffset="0" yoffset="6" xadvance="20" /><!-- V -->
+		<char id="87" x="0" y="0" width="32" height="26" xoffset="0" yoffset="6" xadvance="29" /><!-- W -->
+		<char id="88" x="82" y="109" width="23" height="26" xoffset="0" yoffset="6" xadvance="20" /><!-- X -->
+		<char id="89" x="59" y="0" width="24" height="26" xoffset="0" yoffset="6" xadvance="21" /><!-- Y -->
+		<char id="90" x="150" y="158" width="20" height="27" xoffset="0" yoffset="6" xadvance="17" /><!-- Z -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="16" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="128" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

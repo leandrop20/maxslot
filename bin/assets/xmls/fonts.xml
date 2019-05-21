@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<font description="" type="2">
+		<xml>assets/fonts/fontCredits.xml</xml>
+		<image>assets/fonts/fontCredits.png</image>
+	</font>
+	<font description="" type="2">
+		<xml>assets/fonts/fontWin.xml</xml>
+		<image>assets/fonts/fontWin.png</image>
+	</font>
+	<font description="" type="2">
+		<xml>assets/fonts/stendiga30.xml</xml>
+		<image>assets/fonts/stendiga30.png</image>
+	</font>
+	<font description="" type="2">
+		<xml>assets/fonts/stendiga60.xml</xml>
+		<image>assets/fonts/stendiga60.png</image>
+	</font>
+	<font description="" type="2">
+		<xml>assets/fonts/fontMenu.xml</xml>
+		<image>assets/fonts/fontMenu.png</image>
+	</font>
+</data>

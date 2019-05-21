@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="achievements.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="100mil.png"	x="597"	y="0"	width="276"	height="298" frameX="-99" frameY="-234" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="100milThumb.png"	x="857"	y="299"	width="143"	height="154" frameX="-12" frameY="-0" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="10mil.png"	x="320"	y="0"	width="276"	height="298" frameX="-99" frameY="-234" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="10milThumb.png"	x="776"	y="1806"	width="143"	height="154" frameX="-12" frameY="-0" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="1million.png"	x="578"	y="600"	width="276"	height="298" frameX="-99" frameY="-234" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="1millionThumb.png"	x="748"	y="1353"	width="143"	height="154" frameX="-12" frameY="-0" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="300mil.png"	x="580"	y="299"	width="276"	height="298" frameX="-99" frameY="-234" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="300milThumb.png"	x="855"	y="908"	width="143"	height="154" frameX="-12" frameY="-0" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="30mil.png"	x="578"	y="899"	width="276"	height="298" frameX="-99" frameY="-234" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="30milThumb.png"	x="855"	y="753"	width="143"	height="154" frameX="-12" frameY="-0" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="500mil.png"	x="301"	y="899"	width="276"	height="298" frameX="-99" frameY="-234" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="500milThumb.png"	x="855"	y="598"	width="143"	height="154" frameX="-12" frameY="-0" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="50mil.png"	x="301"	y="301"	width="278"	height="298" frameX="-97" frameY="-234" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="50milThumb.png"	x="748"	y="1198"	width="143"	height="154" frameX="-12" frameY="-0" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="5mil.png"	x="301"	y="600"	width="276"	height="298" frameX="-99" frameY="-234" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="5milThumb.png"	x="777"	y="1508"	width="143"	height="154" frameX="-12" frameY="-0" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="big.png"	x="0"	y="1204"	width="298"	height="297" frameX="-75" frameY="-236" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="bigThumb.png"	x="593"	y="1198"	width="154"	height="154" frameX="-0" frameY="-1" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="double.png"	x="299"	y="1499"	width="292"	height="288" frameX="-79" frameY="-245" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="doubleThumb.png"	x="624"	y="1806"	width="151"	height="150" frameX="-2" frameY="-5" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="fantastic.png"	x="0"	y="0"	width="319"	height="300" frameX="-66" frameY="-234" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="fantasticThumb.png"	x="156"	y="1798"	width="155"	height="155" frameX="-0" frameY="-0" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="jackpot.png"	x="0"	y="903"	width="300"	height="300" frameX="-75" frameY="-234" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="jackpotThumb.png"	x="0"	y="1798"	width="155"	height="155" frameX="-0" frameY="-0" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="mega.png"	x="299"	y="1204"	width="293"	height="294" frameX="-79" frameY="-238" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="megaThumb.png"	x="624"	y="1653"	width="152"	height="152" frameX="-2" frameY="-2" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="monster.png"	x="0"	y="301"	width="300"	height="300" frameX="-75" frameY="-234" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="monsterThumb.png"	x="312"	y="1788"	width="155"	height="155" frameX="-0" frameY="-0" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="super.png"	x="0"	y="602"	width="300"	height="300" frameX="-75" frameY="-234" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="superThumb.png"	x="468"	y="1788"	width="155"	height="155" frameX="-0" frameY="-0" frameWidth="155" frameHeight="155"/>
+	<SubTexture name="triple.png"	x="0"	y="1502"	width="298"	height="295" frameX="-76" frameY="-238" frameWidth="450" frameHeight="768"/>
+	<SubTexture name="tripleThumb.png"	x="592"	y="1499"	width="155"	height="153" frameX="-0" frameY="-2" frameWidth="155" frameHeight="155"/>
+</TextureAtlas>

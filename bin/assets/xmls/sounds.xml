@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<!-- MUSICS -->
+	<!-- <sound description="" type="1">assets/sounds/musics/mMenu.mp3</sound> -->
+	<!-- FX -->
+	<sound description="" type="1">assets/sounds/fx/addMoney.mp3</sound>
+	<sound description="" type="1">assets/sounds/fx/bet.mp3</sound>
+	<sound description="" type="1">assets/sounds/fx/clickMenu.mp3</sound>
+	<sound description="" type="1">assets/sounds/fx/endTurn.mp3</sound>
+	<sound description="" type="1">assets/sounds/fx/jackpot.mp3</sound>
+	<sound description="" type="1">assets/sounds/fx/jackpot2.mp3</sound>
+	<sound description="" type="1">assets/sounds/fx/accumulated.mp3</sound>
+	<sound description="" type="1">assets/sounds/fx/lever.mp3</sound>
+	<sound description="" type="1">assets/sounds/fx/noMoney.mp3</sound>
+	<sound description="" type="1">assets/sounds/fx/pay.mp3</sound>
+	<sound description="" type="1">assets/sounds/fx/turning.mp3</sound>
+</data>

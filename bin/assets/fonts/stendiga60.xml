@@ -1,0 +1,23 @@
+<font>
+	<info face="C:\Users\PINHEIRO\Desktop\Max Roleta project\v2.0 - 2015\media\fonts\stendiga60" size="53" />
+	<common lineHeight="53" scaleW="138" scaleH="140" pages="1" />
+	<pages>
+		<page id="0" file="C:\Users\PINHEIRO\Desktop\Max Roleta project\v2.0 - 2015\media\fonts\stendiga60.png" />
+	</pages>
+	<chars count="12">
+		<char id="48" x="0" y="0" width="45" height="45" xoffset="0" yoffset="9" xadvance="45" /><!-- 0 -->
+		<char id="49" x="80" y="0" width="22" height="43" xoffset="0" yoffset="10" xadvance="22" /><!-- 1 -->
+		<char id="50" x="46" y="0" width="33" height="43" xoffset="0" yoffset="10" xadvance="33" /><!-- 2 -->
+		<char id="51" x="71" y="96" width="28" height="43" xoffset="0" yoffset="10" xadvance="28" /><!-- 3 -->
+		<char id="52" x="0" y="46" width="36" height="50" xoffset="0" yoffset="3" xadvance="36" /><!-- 4 -->
+		<char id="53" x="37" y="46" width="34" height="43" xoffset="0" yoffset="10" xadvance="34" /><!-- 5 -->
+		<char id="54" x="72" y="44" width="32" height="51" xoffset="0" yoffset="3" xadvance="32" /><!-- 6 -->
+		<char id="55" x="105" y="54" width="30" height="52" xoffset="0" yoffset="10" xadvance="30" /><!-- 7 -->
+		<char id="56" x="37" y="90" width="33" height="44" xoffset="0" yoffset="10" xadvance="33" /><!-- 8 -->
+		<char id="57" x="105" y="0" width="32" height="53" xoffset="0" yoffset="9" xadvance="32" /><!-- 9 -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="22" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="176" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

@@ -1,0 +1,8 @@
+<TextureAtlas name="maxRoleta" imagePath="clock.png">
+ <SubTexture name="_clock/linha" x="499" y="0" width="1" height="5"/>
+ <SubTexture name="_clock/brilhoselec" x="0" y="144" width="103" height="103"/>
+ <SubTexture name="_clock/Symbol 1" x="432" y="0" width="65" height="65"/>
+ <SubTexture name="_clock/moeda" x="288" y="0" width="142" height="142"/>
+ <SubTexture name="_clock/arco completo" x="144" y="0" width="142" height="142"/>
+ <SubTexture name="_clock/base" x="0" y="0" width="142" height="142"/>
+</TextureAtlas>

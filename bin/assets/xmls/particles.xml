@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<particle description="" type="2">
+		<xml>assets/particles/accumulated.pex</xml>
+		<image>assets/particles/accumulated.png</image>
+	</particle>
+	<particle description="" type="2">
+		<xml>assets/particles/particleAchiev.pex</xml>
+		<image>assets/particles/particleAchiev.png</image>
+	</particle>
+	<particle description="" type="2">
+		<xml>assets/particles/particleCoins.pex</xml>
+		<image>assets/particles/particleCoins.png</image>
+	</particle>
+	<particle description="" type="2">
+		<xml>assets/particles/particleMenu.pex</xml>
+		<image>assets/particles/particleMenu.png</image>
+	</particle>
+</data>
